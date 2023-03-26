@@ -1,0 +1,1 @@
+defoult_app_config = 'measurement.apps.MeaserementConfig'
